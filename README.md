@@ -55,4 +55,6 @@ The ultimate goal is to deliver a scalable, efficient, and customer-centric plat
 
 📛 Badges
 ![Database](https://img.shields.io/badge/database-Oracle-red.svg)
-
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
