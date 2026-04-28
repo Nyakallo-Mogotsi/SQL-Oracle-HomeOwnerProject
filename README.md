@@ -54,6 +54,7 @@ Future phases will focus on:
 The ultimate goal is to deliver a scalable, efficient, and customer-centric platform that transforms the home repair and maintenance industry by combining technology with skilled service delivery.
 
 📛 Badges
+![SQL](https://img.shields.io/badge/database-SQL-blue)
 ![Database](https://img.shields.io/badge/database-Oracle-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
